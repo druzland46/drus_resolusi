@@ -1,6 +1,5 @@
 DRUS RESOLUSI 
 -Konsisten belajar Web development front end and back and
--Membuat website perusahaan Giogio Healthy
--Membuat Administrasi perusahaan Ortu
+-Membuat website perusahaan Giogio Healthy & administrasi Perusahaan Ortu
 -Membuat aplikasi 
 -Belajar Mechine Learning and Busnises 
